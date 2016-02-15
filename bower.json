@@ -1,6 +1,6 @@
 {
   "name": "t-radio-button",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Rahul Pilkhwal <rahul.pilkhwal@tavisca.com>",
     "Shailesh Kumar Srivastava <ssrivastava@tavisca.com>",
@@ -24,10 +24,10 @@
     "test",
     "tests"
   ],
-  "dependencies": { 
+  "dependencies": {
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-behaviors": "PolymerElements/paper-behaviors#^1.0.3",
-    "paper-styles": "PolymerElements/paper-styles#^1.0.11", 
+    "paper-styles": "PolymerElements/paper-styles#^1.0.11",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
