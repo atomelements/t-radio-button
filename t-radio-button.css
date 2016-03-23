@@ -80,8 +80,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   margin-left: 10px;
   white-space: normal;
   pointer-events: none;
-  font-size:var(--radio-item-text-size);
-  color:var(--radio-item-text-color);
+  font-size:var(--form-label-size, 16px);
+  color: var(--form-value-color, #777777);
 }
 
 #radioLabel[hidden] {
